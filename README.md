@@ -50,8 +50,8 @@ The RBF of hidden neuron as gaussian function
 
 ## PROGRAM:
 ```
-Developed By: Manoj Guna Sundar Tella.
-Register No: 212221240026.
+Developed By: A.Sai Bandhavi
+Register No: 212221240006.
 ```
 ```
 import numpy as np
